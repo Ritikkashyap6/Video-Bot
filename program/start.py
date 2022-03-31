@@ -52,7 +52,7 @@ async def _human_time_duration(seconds):
     command(["start", f"start@{BOT_USERNAME}"]) & filters.private & ~filters.edited
 )
 async def start_(client: Client, message: Message):
-     await message.reply_photo("https://telegra.ph/Rishabh-Bhan-12-06")
+     await message.reply_photo("https://telegra.ph/file/98eb4ea6d9ed027f192be.jpg")
      await message.reply_text(
         f"""✨ **Welcome {message.from_user.mention()} !**\n
 💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **Allows you to play music and video on groups through the new Telegram's video chats!**
@@ -65,25 +65,25 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕",
+                        "➕ 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 ➕",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("❓ 𝐁𝐚𝐬𝐢𝐜 𝐆𝐮𝐢𝐝𝐞", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
+                    InlineKeyboardButton("📚 𝐂𝐨𝐦𝐦𝐚𝐝𝐬", callback_data="cbcmds"),
                     InlineKeyboardButton("👑 𝐎𝐰𝐧𝐞𝐫", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "[👥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐆𝐫𝐨𝐮𝐩]", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "[📣 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥]", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [   
-                    InlineKeyboardButton(text="[🔎 𝐈𝐧𝐥𝐢𝐧𝐞]", switch_inline_query_current_chat=""),
+                    InlineKeyboardButton(text="🔎 𝐈𝐧𝐥𝐢𝐧𝐞", switch_inline_query_current_chat=""),
                 ],
                 [
                     InlineKeyboardButton(
