@@ -32,7 +32,7 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/29186dec7e882598a144e.jpg">
+  <img src="https://telegra.ph/file/98eb4ea6d9ed027f192be.jpg">
 </p>
 
 ## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
