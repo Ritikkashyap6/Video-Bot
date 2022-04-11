@@ -7,7 +7,8 @@
 <p align="center">
     <br><b>Video Bot is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
-Can be found on Telegram as [Love music Bot ❤](https://t.me/Love_guru_music_bot)</br>
+Can be found on Telegram as [Love music Bot ❤](https://t.me/Love_guru_music_bot)
+</br>
 
 ### 🔎 Support Inline Search
 
