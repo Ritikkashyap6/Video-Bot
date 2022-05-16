@@ -26,6 +26,11 @@ Can be found on Telegram as [Love music Bot ❤](https://t.me/Love_guru_music_bo
 The easy way to host this bot, deploy to Heroku.
 Click On The Image To Deploy
 [![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Ritikkashyap6/video-Bot)
+ 
+## 🚀 Okteto Deployment
+
+<h4>Click the button below to deploy VideoBot on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Ritikkashyap6/video-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## VPS Deployment 🎵
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
