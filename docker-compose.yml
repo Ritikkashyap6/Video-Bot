@@ -1,0 +1,6 @@
+version: version
+services:
+  worker:
+    build: .
+    environment:
+      SESSION_NAME: $SESSION_NAME
